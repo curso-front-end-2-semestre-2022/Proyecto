@@ -22,22 +22,7 @@ export default function About() {
           <div class="mb-3  px5">
             <label class="form-label"> mensaje</label>
             <textarea class="form-control" rows="3"></textarea>
-          </div>
-        </div>
-          <div class="col-5">
-            <div class="mb-3 pt-5 px-5">
-              <p>Direcction - <span class="text-secondary">123 calle</span></p>
-            </div>
-            <div class="mb-3 px-5">
-              <p>Ciudad - <span class="text-secondary">NewCity - nc</span></p>
-            </div>
-            <div class="mb-3 px-5">
-              <p>Telefono - <span class="text-secondary">000-000-000</span></p>
-            </div>
-            <div class="mb-3 px-5">
-              <p>Facebook - <span class="text-secondary"><a href="www.facebook.com" target="_blank">Facebook</a></span></p>
-            </div>
-            </div>
+          </div>            </div>
             </div>
             </div>
                 </section>
